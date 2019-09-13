@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E31DE305-0BB3-4C8A-AB49-AF20302AB31B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E31DE305-0BB3-4C8A-AB49-AF20302AB31B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>greenstock project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>greenstock</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project greenstock with scheme greenstock and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583238555.80396605</real>
+			<key>timeStoppedRecording</key>
+			<real>583238560.41573095</real>
+			<key>title</key>
+			<string>Building project greenstock with scheme greenstock and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E31DE305-0BB3-4C8A-AB49-AF20302AB31B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
